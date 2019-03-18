@@ -2,20 +2,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>pl.dominisz</groupId>
+    <groupId>pl.paw1470</groupId>
     <artifactId>java8desktop</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>java8desktop</name>
     <description>Maven project for Java 8 desktop application with Lombok and JUnit dependencies</description>
-    <url>https://github.com/dominisz/java8desktop</url>
+    <url>https://github.com/paw1470/java8desktop</url>
+     <!--git@github.com:paw1470/java8desktop.git-->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <lombok.version>1.16.20</lombok.version>
-        <junit.jupiter.version>5.1.0</junit.jupiter.version>
+        <lombok.version>1.18.6</lombok.version>
+        <junit.jupiter.version>5.4.0</junit.jupiter.version>
         <junit.platform.version>1.1.0</junit.platform.version>
     </properties>
 

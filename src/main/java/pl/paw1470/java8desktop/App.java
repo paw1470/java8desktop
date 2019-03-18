@@ -1,4 +1,4 @@
-package pl.dominisz.java8desktop;
+package pl.paw1470.java8desktop;
 
 /**
  * http://dominisz.pl
