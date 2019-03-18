@@ -9,7 +9,7 @@
 
     <name>java8desktop</name>
     <description>Maven project for Java 8 desktop application with Lombok and JUnit dependencies</description>
-    <url>https://github.com/dominisz/java8desktop</url>
+    <url>https://github.com/paw1470/java8desktop</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
